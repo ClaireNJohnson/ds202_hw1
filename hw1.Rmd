@@ -70,7 +70,7 @@ version
 
     ```
     git config --global user.name "Claire Johnson"
-    git config --global user.email "calire17@iastate.edu"
+    git config --global user.email "claire17@iastate.edu"
     ```
 
     Answer: Done
