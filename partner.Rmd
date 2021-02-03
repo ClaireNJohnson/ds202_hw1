@@ -1,0 +1,17 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Partner Name**: Claire Johnson
+**Github Username**: ClaireNJohnson
+
+The most recent commit was the initialization commit adding the hw1.html and hw1.Rmd.  The commit ID is *b7b004d373c4db039e9faff3f8c87559a7bb0e92*.
+
+The hw1.Rmd knitted without error.
+
+I didn't encounter any errors and a tip to make Git easier is to focus on committing early and often.
